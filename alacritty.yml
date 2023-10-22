@@ -1,0 +1,28 @@
+font:
+  normal:
+    family : JetBrainsMonoNerdFont
+  style: Medium
+
+  bold:
+    family: AnonymousPro
+    style: Bold
+
+  italic:
+    family: AnonymousPro
+    style: Italic
+
+  bold_italic:
+    family: AnonymousPro
+    style: Bold Italic
+
+  size: 15
+import:
+ - ~/.config/alacritty/themes/themes/omni.yaml
+
+shell:
+  program: /usr/bin/tmux
+
+
+
+
+
